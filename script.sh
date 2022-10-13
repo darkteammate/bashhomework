@@ -3,4 +3,4 @@
 echo "What's your name?"
 read name
 
-echo "IIpuBET, $name"
+echo "IIpuBET, $name!!!"
